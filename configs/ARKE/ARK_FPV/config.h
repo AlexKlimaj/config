@@ -116,7 +116,7 @@
 #define USE_ACC
 #define USE_GYRO
 #define USE_ACCGYRO_IIM42653
-#define USE_ACCGYRO_LSM6DSV16X
+#define USE_ACCGYRO_LSM6DSV32X
 #define USE_SPI
 #define USE_SPI_DEVICE_1
 #define SPI1_SCK_PIN        PA5
